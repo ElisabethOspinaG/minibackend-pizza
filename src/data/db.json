@@ -1,6 +1,29 @@
 {
-    "pizzas": [
-        {
+  "admin": [
+    {
+      "id": 1,
+      "name": "Luisa Lafaure",
+      "rol": "Administrador",
+      "userName": "Luisa",
+      "paswoord": "12345"
+    },
+    {
+      "id": 2,
+      "name": "Elizabeth Ospina",
+      "rol": "Administrador",
+      "userName": "Eliza",
+      "paswoord": "12345"
+    },
+    {
+      "id": 3,
+      "name": "Lizeth Montoya",
+      "rol": "Administrador",
+      "userName": "Lizeth",
+      "paswoord": "12345"
+    }
+  ],
+  "pizzas": [
+    {
       "id": "P001",
       "price": 5950,
       "name": "napolitana",
@@ -126,6 +149,5 @@
         }
       ]
     }
-    ]
-
+  ]
 }
