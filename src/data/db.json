@@ -2,6 +2,7 @@
   "users": [
     {
       "id": 1,
+      "img": "https://cdn-icons-png.flaticon.com/512/6185/6185632.png",
       "name": "Luisa Lafaure",
       "rol": "users",
       "userName": "Luisa",
@@ -9,13 +10,15 @@
     },
     {
       "id": 2,
-      "name": "Elizabeth Ospina",
+      "img": "",
+      "name": "Elisabeth Ospina",
       "rol": "users",
-      "userName": "Eliza",
+      "userName": "Elisa",
       "password": "12345"
     },
     {
       "id": 3,
+      "img": "",
       "name": "Lizeth Montoya",
       "rol": "users",
       "userName": "Lizeth",
@@ -149,5 +152,32 @@
         }
       ]
     }
+  ],
+  "carShop": [],
+  "favorite": [],
+  "admin": [
+    {
+      "id": 1,
+      "name": "Luisa Lafaure",
+      "rol": "admin",
+      "userName": "Luisa",
+      "password": "123"
+    },
+    {
+      "id": 2,
+      "name": "Elisabeth Ospina",
+      "rol": "admin",
+      "userName": "Elisa",
+      "password": "456"
+    },
+    {
+      "id": 3,
+      "name": "Lizeth Montoya",
+      "rol": "admin",
+      "userName": "Lizeth",
+      "password": "789"
+    }
+
   ]
+
 }
