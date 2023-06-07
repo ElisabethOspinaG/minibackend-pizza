@@ -1,23 +1,23 @@
 {
-  "admin": [
+  "users": [
     {
       "id": 1,
       "name": "Luisa Lafaure",
-      "rol": "Administrador",
+      "rol": "users",
       "userName": "Luisa",
       "password": "12345"
     },
     {
       "id": 2,
       "name": "Elizabeth Ospina",
-      "rol": "Administrador",
+      "rol": "users",
       "userName": "Eliza",
       "password": "12345"
     },
     {
       "id": 3,
       "name": "Lizeth Montoya",
-      "rol": "Administrador",
+      "rol": "users",
       "userName": "Lizeth",
       "password": "12345"
     }
