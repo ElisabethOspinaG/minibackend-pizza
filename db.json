@@ -3,14 +3,14 @@
     {
       "id": 1,
       "img": "https://cdn-icons-png.flaticon.com/512/6185/6185632.png",
-      "name": "Luisa Lafaure",
+      "name": "Luisa Lafaurie",
       "rol": "users",
       "userName": "Luisa",
       "password": "12345"
     },
     {
       "id": 2,
-      "img": "",
+      "img": "https://cdn-icons-png.flaticon.com/512/921/921018.png",
       "name": "Elisabeth Ospina",
       "rol": "users",
       "userName": "Elisa",
@@ -18,7 +18,7 @@
     },
     {
       "id": 3,
-      "img": "",
+      "img": "https://cdn-icons-png.flaticon.com/512/6889/6889361.png",
       "name": "Lizeth Montoya",
       "rol": "users",
       "userName": "Lizeth",
@@ -158,7 +158,7 @@
   "admin": [
     {
       "id": 1,
-      "name": "Luisa Lafaure",
+      "name": "Luisa Lafaurie",
       "rol": "admin",
       "userName": "Luisa",
       "password": "123"
